@@ -16,11 +16,6 @@
 ```
 git clone https://github.com/chandan5362/Smart-Driver-Monitoring-System.git
 ```
-
-* `cd` to the `SMART-DRIVER-MONITORING` directory.
-```
-cd SMART-DRIVER-MONITORING
-```
 * Install the required dependencies inside a virtual environment.
 ```
 pip install -r requirements.txt
