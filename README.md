@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python driver_analytics.py
 ```
 
-By default, it accepts input from webcam. Feel free to change the input method and direct the script to the local path of the video. It's not a very fancy project but it can get you started for the advanced version. You can modify it for your purpose. You can also create a PR if you need infomation about the methodology and the algorithms or you want some more features to be included. I have tried my best to write the code as simple as possible. So, Even if you are the novice in python, you can easily understand the the codes.
+By default, it accepts input from webcam. Feel free to change the input method and direct the script to the local path of the video. It's not a very fancy project but it can get you started for the advanced version. You can modify it for your purpose. You can also create a PR if you need infomation about the methodology and the algorithms or you want some more features to be included. I have tried my best to write the code as simple as possible. So, Even if you are a novice in python, you can easily understand the the codes.
 
 
 ## Frameworks used
